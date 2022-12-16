@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "./node_modules/.bin/codeceptjs run @frontend"
+  },
+  "dependencies": {
+    "codeceptjs": "^3.3.7"
+  },
+  "devDependencies": {
+    "playwright": "^1.18.1"
+  }
+}
